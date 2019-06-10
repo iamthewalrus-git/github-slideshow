@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to iamthewalrus-git's slide!"
 ---
-This is iamthewalrus-git file
+This is my awesome file
 Use the left arrow to go back!
